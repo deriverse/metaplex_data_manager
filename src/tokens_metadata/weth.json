@@ -1,0 +1,16 @@
+{
+  "name": "Wrapped Ether (Wormhole)",
+  "symbol": "WETH",
+  "description": "Wrapped Ether (Wormhole) for Deriverse Demo",
+  "image": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs/logo.png",
+  "external_url": "https://wormhole.com",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "token"
+  }
+}

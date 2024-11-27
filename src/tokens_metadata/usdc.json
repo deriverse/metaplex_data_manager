@@ -1,0 +1,16 @@
+{
+  "name": "USD Circle Stablecoin",
+  "symbol": "USDC",
+  "description": "USD Circle Stablecoin for Deriverse Demo",
+  "image": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+  "external_url": "https://wormhole.com",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "token"
+  }
+}
